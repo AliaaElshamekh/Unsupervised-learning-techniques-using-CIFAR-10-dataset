@@ -1,0 +1,2 @@
+# Unsupervised-learning-techniques-using-CIFAR-10-dataset
+Clustering is especially useful for exploring data we know nothing about. It might take some time to figure out which type of clustering algorithm works the best, but when we do,we will get invaluable insight on your data.We are going to use CIFAR-10 dataset which contain(32,32) colored 10K images,wherease the data we are going to work on is 128 features extracted for all the 10K images.
